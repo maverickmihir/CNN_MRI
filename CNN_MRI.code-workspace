@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/CNN Meningioma/tumor_classification_CNN"
+		},
+		{
+			"path": "../Downloads/CNN2 Meningioma/Menningioma_subtype_CNN"
+		}
+	],
+	"settings": {}
+}
